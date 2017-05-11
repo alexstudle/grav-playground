@@ -1,0 +1,11 @@
+email: test@test.com
+fullname: 'Alex Studlé'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$3Z2SZ76MyT5A3MynrEgIceQ7pdLBHAE4UfaIOZ/6Q9zKnj9W6d0Jq
