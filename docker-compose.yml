@@ -1,0 +1,7 @@
+web:
+    image: unitedasian/grav
+    volumes:
+        - ".:/usr/share/nginx/html"
+    tty: true
+    ports:
+        - "80:80"
